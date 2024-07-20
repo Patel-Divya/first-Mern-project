@@ -1,0 +1,13 @@
+.footer{
+    background-color: rgb(37, 37, 37);
+    padding: 100px ;
+    position: relative;
+}
+
+.text{
+    background-color: rgb(37, 37, 37);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
